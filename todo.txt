@@ -14,6 +14,8 @@ file:///Users/Tadanori/Dropbox/org/mindgarden.md
 
 # 作業記録の共有をEvernoteから作成したページで行う
 
+# Evernote APIをPythonで触れるようになりたい
+
 # Pyhtonでメルマガ原稿作成支援
 
 　進捗の状況を確認できるようにする
