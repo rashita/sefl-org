@@ -3,10 +3,14 @@
 →参考サイト
  [結城浩の作業ログ](https://log.hyuki.net/)
 
-# MindGarden
-file:///Users/Tadanori/Dropbox/org/mindgarden.txt
+* [ ] URLの設定
+* [ ] ページの中身
+* [ ] サンプルリストの拡充
 
-# 作業記録の共有を独立したページで行う
+# MindGarden
+file:///Users/Tadanori/Dropbox/org/mindgarden.md
+
+# 作業記録の共有をEvernoteから作成したページで行う
 
 # Pyhtonでメルマガ原稿作成支援
 
