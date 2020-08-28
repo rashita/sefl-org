@@ -3,12 +3,17 @@ import webbrowser
 import os
 import markdown
 
-path_writinglist = "これから書くこと.md" 
-path_todolist = "todo.txt"
+#IDAE:日付や曜日を表示する？ javascript
+#ローカルサーバーで開く？→個別ファイルへの書き出しができるかも
+#DIVを横並びにするrow/colum
+#表示行数を限定する/スクロール表示にする
+
 path_temphaader = "material/header.html"
 path_tempfooter = "material/footer.html"
 path_output = "material/index.html"
 #読み込むファイルのリストを配列で持つ？
+path_writinglist = "これから書くこと.md" 
+path_todolist = "todo.txt"
 
 with open(path_temphaader) as f1:
      tempHead = f1.read()
