@@ -8,6 +8,7 @@ import markdown
 #ローカルサーバーで開く？→個別ファイルへの書き出しができるかも
 #TODO:DIVを横並びにするrow/colum→header.html
 #表示行数を限定する/スクロール表示にする
+#TODO:htmlにファビコンをつける
 
 path_temphaader = "material/header.html"
 path_tempfooter = "material/footer.html"
