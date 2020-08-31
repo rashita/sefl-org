@@ -1,5 +1,11 @@
 # TODOリスト
 
+#### 作業記録をEvernoteから生成したHTMLにて行う
+
+iPhoneで見やすいサイトが作れる。
+
+さらに、「あとで読む」を抜き出して、Webページにする
+
 #### 書籍の企画案.mdの整理
 
 中身があるものは別ファイルに移す（あくまで一覧）
@@ -13,10 +19,26 @@
 * [ ] ページの中身
 * [ ] サンプルリストの拡充
 
+#### WorkFlowyからScrapboxにコピペするときになんとかしたいブックマークレット
+https://scrapbox.io/rashitamemo/WorkFlowy%E3%81%8B%E3%82%89Scrapbox%E3%81%AB%E3%82%B3%E3%83%94%E3%83%9A%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%97%E3%81%9F%E3%81%84%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88
+
 #### MindGarden
 file:///Users/Tadanori/Dropbox/org/mindgarden.md
 
 #### 一カ月毎にサークルを移っていく
+
+#### 自宅で作業する環境を整える
+
+A4の用紙、ないしはノートを閲覧できるようにする
+コルクボードは何に相当するか？
+
+#### キッチンの収納問題
+
+調味料をどう収納するか？
+
+#### 夜の読書会を開催する
+
+本をダシにして、わいわいガヤガヤ語る会
 
 #### 作業記録の共有をEvernoteから作成したページで行う
 
@@ -26,13 +48,48 @@ file:///Users/Tadanori/Dropbox/org/mindgarden.md
 
 　進捗の状況を確認できるようにする
 
+#### 給付金の申請手続きを郵送で行う準備する
+
+https://www.jizokuka-kyufu.jp/explanation/
+→給付金のための納税証明書
+https://mirasapo-plus.go.jp/infomation/5822/
+https://www.jizokuka-kyufu.jp/
+https://www.jizokuka-kyufu.jp/doc/pdf/r2_application_guidance_proprietor.pdf
+計算する
+◇持続化給付金を１００万円もらった: 鶴見済のブログ
+http://tsurumitext.seesaa.net/article/475656759.html
+去年の売り上げを確定申告書で確認して、それを12で割る
+その数が特定の月の売り上げを12倍したものを50%以上下回っているならOK
+〇2019年（度）の確定申告書類
+    納税証明書をもらう→宇治税務署にいく
+〇対象月の売上台帳等
+    売り上げ台帳を作成する
+○通帳のコピー
+    表紙のコピーで良い
+〇本人確認書類（運転免許証、個人番号カード等）
+    運転免許書で『良い
+
 #### 連ツイをまとめるスクリプト
+
+#### 📕Intellectual Activity Powerpack
+https://github.com/rashita/iapowerpack
+
+自分のScrapboxにインポートする
+そのようなプロジェクトをたくさん作る
+jsonを集めるGit系の何かを使う
 
 #### 本の紹介動画を作りたい
 
 #### 『僕らの生存戦略』が脱稿したら小さい本作りをたくさん行いたい
 
 #### 今後の著作に関するアンケートを採る
+
+#### Python + Twitterで遊ぶ
+
+#### 📕Scrapboxプロジェクトのプロジェクト
+
+https://scrapbox.io/scrapboxpublicprojects/
+このプロジェクトにブックマークするためのブックマークレットを作る
 
 #### Go言語について調べる
 

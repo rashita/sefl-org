@@ -14,7 +14,7 @@ path_temphaader = "material/header.html"
 path_tempfooter = "material/footer.html"
 path_output = "material/index.html"
 #TODO:関数で特定のフォルダからファイルを読んで配列にして保持するようにする
-path_loadfile = ["これから書くこと.md","todo.txt","書籍の企画案.md","書きたいこと・エッセイ.md","気をつけたいこと.md"]
+path_loadfile = ["これから書くこと.md","todo.txt","書籍の企画案.md","書きたいこと・エッセイ.md","気をつけたいこと.md","曜日別アウトプット.md"]
 
 with open(path_temphaader) as f1:
      tempHead = f1.read()
