@@ -6,17 +6,11 @@ from collections import OrderedDict
 
 filepath = '/Users/Tadanori/dropbox/org/data.txt'
 jsonfilepath = '/Users/Tadanori/dropbox/org/data.json'
-
-
-with open(jsonfilepath) as f2:
-    try:
-        jsonbody = json.load(f2)
-    except ValueError as e:
-        jsonbody = []
-
+       
 with open(filepath) as f:
     l = f.readlines()
 
+jsonbody = []
 blockflag = False
 body = ""
 title = ""
@@ -27,6 +21,7 @@ for n in l:
             blockflag = True
         else:
             jsonbody.append(OrderedDict(title=title, body=body.rstrip()))
+            body = ""
             blockflag == False
             title = n.rstrip('\n')
     else:
@@ -37,4 +32,5 @@ else:
 
 with open(jsonfilepath, 'w', encoding='utf-8') as g:
     json.dump(jsonbody, g, indent=4,ensure_ascii=False)
+
     

@@ -18,6 +18,6 @@ todaydata = now.strftime('%Y年%m月%d日')
 s = re.sub('■あとで読む', todaydata, sys.argv[1])
 s = s + '\n'
 l.insert(20, s)
-
+    
 with open(filepath, mode='w') as f:
     f.writelines(l)
