@@ -17,13 +17,13 @@ title = ""
 for n in l:
     if n[0] == "#":
         if blockflag == False:
-            title = n.rstrip('\n')
+            title = n.rstrip('\n').replace('# ','')
             blockflag = True
         else:
             jsonbody.append(OrderedDict(title=title, body=body.rstrip()))
             body = ""
             blockflag == False
-            title = n.rstrip('\n')
+            title = n.rstrip('\n').replace('# ','')
     else:
         body = body + n    
 else:
